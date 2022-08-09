@@ -1,0 +1,1 @@
+Se realiza trabajo de base de datos considerando transacciones, stock de productos y se introduce el concepto de rollback y autocommit.
